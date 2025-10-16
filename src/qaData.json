@@ -1,0 +1,27 @@
+[
+  {
+    "question": "what is your name",
+    "answer": "I'm your friendly AI chatbot!",
+    "type": "Statement"
+  },
+  {
+    "question": "Hi",
+    "answer": "How can I hep you?",
+    "type": "Statement"
+  },
+  {
+    "question": "Hello",
+    "answer": "How can I hep you?",
+    "type": "Statement"
+  },
+  {
+    "question": "Deploy",
+    "type": "Card",
+    "options": ["Get All Agents", "Get All Applications"]
+  },
+  {
+    "question": "Get All Agents",
+    "type": "Card",
+    "options": ["Core", "ChangeImpactAnalyzer", "ProcessToDesign", "CodeGenPython", "GenWizard"]
+  }
+]
