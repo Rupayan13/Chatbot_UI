@@ -6,22 +6,20 @@
   },
   {
     "question": "Hi",
-    "answer": "How can I hep you?",
+    "answer": "How can I help you?",
     "type": "Statement"
   },
   {
     "question": "Hello",
-    "answer": "How can I hep you?",
+    "answer": "How can I help you?",
     "type": "Statement"
   },
   {
     "question": "Deploy",
-    "type": "Card",
-    "options": ["Get All Agents", "Get All Applications"]
+    "type": "Card"
   },
   {
     "question": "Get All Agents",
-    "type": "Card",
-    "options": ["Core", "ChangeImpactAnalyzer", "ProcessToDesign", "CodeGenPython", "GenWizard"]
+    "type": "Card"
   }
 ]
